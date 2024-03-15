@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yoko Tai
-- 👀 I’m interested in developing my skills in software development and learning about other opportunities in technology.
+- 👀 I’m interested in developing my skills in quantitative analysis and learning about other opportunities in the intersection of analysis and finance. 
 - 🌱 I’m currently studying Computer Science-Mathematics at Columbia University
 - 📫 How to reach me yokohtai@gmail.com | +1 407-969-9166
 - 🔗 LinkedIn: https://www.linkedin.com/in/yoko-tai-070286172/
